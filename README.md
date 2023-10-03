@@ -1,7 +1,6 @@
 ### Hi there 👋 This is Mohammad Eskandari
-#### 👯 I'm open to work I work a Full-Stack Developer and looking to collaborate on your team.
 
-- 🌱 currently learning go
+- 🌱 Always learning ...
 <!--
 **mdskandari/mdskandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
